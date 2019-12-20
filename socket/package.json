@@ -1,0 +1,18 @@
+{
+  "name": "webrtc-socket-connect",
+  "version": "0.0.0",
+  "description": "The backend side of connecting WebRTC clients via a socket.",
+  "main": "WebRTCSignalPassing-Socket.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gpolonus/webrtc-socket-connect.git"
+  },
+  "author": "gpolonus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpolonus/webrtc-socket-connect/issues"
+  },
+  "homepage": "https://github.com/gpolonus/webrtc-socket-connect#readme"
+}
